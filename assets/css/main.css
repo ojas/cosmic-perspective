@@ -1,0 +1,63 @@
+html {
+  color-scheme: light only;
+}
+
+.home-link {
+  margin-bottom: 2rem;
+  font-size: 0.9em;
+}
+
+.source-entry {
+    margin-bottom: 1.5em;
+    padding-left: 2em;
+    text-indent: -2em;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+header h1 {
+  margin-top: 0;
+}
+
+header a {
+  text-decoration: none;
+}
+
+.is-sticky {
+  position: sticky;
+  top: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  z-index: 10;
+}
+
+
+/* Page specific styles */
+.page-ways-of-knowing table {
+  width: 100%;
+  margin-bottom: 1rem;
+  border: 1px solid #111;
+  border-collapse: collapse;
+}
+.page-ways-of-knowing table td,
+.page-ways-of-knowing table th {
+  border: 1px solid #111;
+  padding: 0.5rem;
+  border-collapse: collapse;
+  vertical-align: top;;
+}
+
+.page-cosmic-timeline .marginnote {
+  font-size: inherit;
+}
+
+.page-ways-of-knowing table blockquote {
+  margin: 0;
+  padding: 0.5rem 0 0 1rem;
+  border: none;
+  font-style: italic;
+  font-size: inherit;
+}
+.page-ways-of-knowing .table {
+  border-collapse: collapse;
+}

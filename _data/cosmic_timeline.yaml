@@ -1,0 +1,979 @@
+- id: 1
+  timescale: "~13.8 billion years ago"
+  cosmic_placement: "Jan 01 00:00:00"
+  description: "Well-established (event): Cosmic origin (Big Bang). The universe begins expanding from a hot, dense state; space-time emerges; fundamental physical regularities (gravity, conservation laws, thermodynamics) govern all subsequent evolution. [Sources: Planck Collaboration; NASA Cosmology]"
+  quran_option_1: "[Theme / Sign] 21:30 — creation begins with separation and unfolding by divine will."
+  quran_option_2: "[Theme / Sign] creation begins with separation and unfolding by divine will. "
+  hadith:
+  sources: [S001, S002]
+
+- id: 2
+  timescale: "~13.8–13.7 billion years ago"
+  cosmic_placement: "Jan 01 00:38:05"
+  description: "Well-established (process): Early universe cooling. Fundamental particles combine; atomic nuclei and later atoms form; radiation decouples from matter, allowing light to travel freely. [Sources: Planck Collaboration; ESA]"
+  quran_option_1: "[Theme / Sign] 41:11 — heavens described in an early formative state (“smoke”)."
+  quran_option_2: |
+    [Theme / Sign] 51:47 — expansion of the heaven (sign verse; not a scientific timestamp).
+    [Theme / Sign] 41:11 — heavens described in an early formative state (“smoke”).
+  hadith:
+  sources: [S001]
+
+- id: 3
+  timescale: "~13.6 billion years ago"
+  cosmic_placement: "Jan 01 00:14:28"
+  description: "Well-established (event): First stars ignite. Gravitational collapse initiates nuclear fusion; starlight appears; stars begin producing heavier elements. [Sources: NASA; Astrophysical Journal review]"
+  quran_option_1: "[Theme / Sign] 6:97 — stars as signs for guidance in darkness."
+  quran_option_2: "[Theme / Sign] 67:3–4 — order and consistency in creation (sign verse)."
+  hadith:
+  sources: [S001]
+
+- id: 4
+  timescale: "~13.2 billion years ago"
+  cosmic_placement: "Jan 07 14:41:44"
+  description: "Well-established (process): First galaxies assemble. Stars group into galaxies; large-scale cosmic structure develops over time. [Sources: Hubble/James Webb findings; ESA]"
+  quran_option_1: "[Theme / Sign] 51:47 — the heavens built with strength and vastness."
+  quran_option_2: "[Theme / Sign] 35:41 — cosmic order maintained by divine permission (sign verse)."
+  hadith:
+  sources: [S002, S008]
+
+- id: 5
+  timescale: "~13.0 billion years ago"
+  cosmic_placement: "Jan 22 03:49:33"
+  description: "Well-established (process): Milky Way formation. A spiral galaxy grows through mergers and accretion; long-lived stellar populations develop. [Sources: Gaia Mission; NASA]"
+  quran_option_1: "[Theme / Sign] 36:38–40 — celestial bodies follow ordained courses."
+  quran_option_2: "[Theme / Sign] 50:6–7 — reflection on the sky and the earth as signs."
+  hadith:
+  sources: [S008]
+
+- id: 6
+  timescale: "~11–8 billion years ago"
+  cosmic_placement: "Jan 16 20:52:10"
+  description: "Well-established (process): Heavy elements forged. Supernovae and stellar winds distribute carbon, oxygen, iron, and other elements necessary for rocky planets and life. [Sources: NASA; nucleosynthesis reviews]"
+  quran_option_1: "[Theme / Sign] 57:25 — iron and material strength provided for human benefit."
+  quran_option_2: "[Theme / Sign] 41:11 — the sky formed by command (sign verse)."
+  hadith:
+  sources: [S002]
+  
+  
+
+- id: 7
+  timescale: "~4.6 billion years ago"
+  cosmic_placement: "Sep 01 08:00:00"
+  description: "Well-established (event): Sun forms. A stable star ignites in the Milky Way; nuclear fusion balances gravity, enabling long-term energy output. [Sources: NASA Solar System Chronology]"
+  quran_option_1: "[Theme / Sign] 55:5 — sun and moon move by precise measure."
+  quran_option_2: "[Theme / Sign] 6:96 — the sun and moon as means of reckoning (sign verse)."
+  hadith:
+  sources: [S002]
+  
+  
+
+- id: 8
+  timescale: "~4.54 billion years ago"
+  cosmic_placement: "Sep 02 22:05:13"
+  description: "Well-established (event): Earth forms. Rocky planet accretes; differentiation produces core, mantle, and crust; early atmosphere develops. [Sources: USGS; radiometric dating consensus]"
+  quran_option_1: "[Theme / Sign] 41:9–10 — the earth created and provisioned in ordered fashion."
+  quran_option_2: "[Theme / Sign] 79:30 — the earth spread out and prepared (sign verse)."
+  hadith:
+  sources: [S004]
+  
+  
+
+- id: 9
+  timescale: "~4.3–4.0 billion years ago"
+  cosmic_placement: "Sep 11 21:54:46"
+  description: "Approximate (scientific inference, process): Oceans stabilize. Liquid water persists; orbital stability and climate feedbacks allow long-term surface water. [Sources: NASA; geochemistry reviews]"
+  quran_option_1: "[Theme / Sign] 21:30 — all living things made from water."
+  quran_option_2: "[Theme / Sign] 21:30 — living things made from water (sign verse)."
+  hadith:
+  sources: [S004]
+  
+  
+
+- id: 10
+  timescale: "~3.8–3.5 billion years ago"
+  cosmic_placement: "Sep 26 11:02:36"
+  description: "Approximate (scientific inference, event): Origin of life. Earliest microbial life appears; metabolism and replication begin. [Sources: Nature Reviews; geobiology consensus]"
+  quran_option_1: "[Theme / Sign] 24:45 — living beings created from water."
+  quran_option_2: "[Theme / Sign] 21:30 — living things made from water (sign verse)."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 11
+  timescale: "~3.0 billion years ago"
+  cosmic_placement: "Oct 07 00:57:23"
+  description: "Approximate (scientific inference, process): Photosynthesis emerges. Organisms capture sunlight; oxygen released as a byproduct. [Sources: Nature; Earth system science reviews]"
+  quran_option_1: "[Theme / Sign] 16:10–11 — vegetation brought forth through water and sunlight."
+  quran_option_2: "[Theme / Sign] 16:10–11 — vegetation and crops as provision (sign verse)."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 12
+  timescale: "~2.4 billion years ago"
+  cosmic_placement: "Oct 29 12:31:18"
+  description: "Well-established (process): Great Oxygenation Event. Atmospheric oxygen rises; ecosystems transform; many anaerobic niches collapse. [Sources: ICS; geochemical evidence]"
+  quran_option_1: "[Theme / Sign] 21:32 — the sky as a protected canopy (general environmental order)."
+  quran_option_2: "[Theme / Sign] 45:13 — what is in the heavens and earth is subjected for benefit (sign verse)."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 13
+  timescale: "~1.8 billion years ago"
+  cosmic_placement: "Nov 13 01:39:07"
+  description: "Well-established (event): Complex cells (eukaryotes). Cellular compartmentalization enables greater biological complexity. [Sources: Nature Reviews; cell biology consensus]"
+  quran_option_1: "[Theme / Sign] 30:22 — diversity in creation as a sign."
+  quran_option_2: "[Theme / Sign] 24:45 — living beings created from water, varied in forms."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 14
+  timescale: "~1.0–0.8 billion years ago"
+  cosmic_placement: "Dec 13 11:39:07"
+  description: "Well-established (process): Multicellular life expands. Organisms with specialized tissues become common. [Sources: ICS; evolutionary biology reviews]"
+  quran_option_1: "[Theme / Sign] 22:66 — life, death, and revival as divine acts."
+  quran_option_2: "[Theme / Sign] 30:20 — creation and diversity as signs."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 15
+  timescale: "~541 million years ago"
+  cosmic_placement: "Dec 17 16:34:57"
+  description: "Well-established (event): Cambrian explosion. Rapid diversification of animal body plans in the oceans. [Sources: ICS; paleontology consensus]"
+  quran_option_1: "[Theme / Sign] 6:38 — animals as communities like humankind."
+  quran_option_2: "[Theme / Sign] 16:14 — sea creatures and benefit from the sea (sign verse)."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 16
+  timescale: "~470 million years ago"
+  cosmic_placement: "Dec 19 13:39:07"
+  description: "Well-established (process): Plants colonize land. Terrestrial ecosystems form; soils and atmospheric interactions intensify. [Sources: ICS; paleobotany reviews]"
+  quran_option_1: "[Theme / Sign] 87:4–5 — vegetation cycles as a sign."
+  quran_option_2: "[Theme / Sign] 20:53 — earth made as a cradle and paths, and vegetation brought forth (sign verse)."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 17
+  timescale: "~360 million years ago"
+  cosmic_placement: "Dec 22 01:57:23"
+  description: "Well-established (process): Animals colonize land. Vertebrates and insects establish land-based food webs. [Sources: ICS; evolutionary biology]"
+  quran_option_1: "[Theme / Sign] 16:5 — animals created with benefit."
+  quran_option_2: "[Theme / Sign] 24:45 — diversity of locomotion and forms among creatures."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 18
+  timescale: "~230–66 million years ago"
+  cosmic_placement: "Dec 28 00:46:57"
+  description: "Well-established (process): Dinosaurs dominate. Large reptiles occupy many terrestrial niches over millions of years. [Sources: ICS; paleontology consensus]"
+  quran_option_1: "[Theme / Sign] 16:8 — diversity of created creatures."
+  quran_option_2: "[Theme / Sign] 6:141 — diversity of creation and provision (sign verse)."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 19
+  timescale: "~66 million years ago"
+  cosmic_placement: "Dec 30 06:06:15"
+  description: "Well-established (event): Mass extinction. Non-avian dinosaurs go extinct; ecological reset allows mammal diversification. [Sources: ICS; Schulte et al. 2010]"
+  quran_option_1: "[Theme / Sign] 19:74 — generations destroyed before later ones."
+  quran_option_2: "[Theme / Sign] 30:9 — reflect on earlier peoples/creatures and how ends occur (sign verse)."
+  hadith:
+  sources: [S005]
+  
+  
+
+- id: 20
+  timescale: "~6–7 million years ago"
+  cosmic_placement: "Dec 31 19:52:26"
+  description: "Well-established (process): Earliest hominins. Bipedal lineage emerges in Africa; long path toward humanity begins. [Sources: paleoanthropology consensus; Smithsonian]"
+  quran_option_1: "[Theme / Sign] 15:26 — humanity created from earthly material."
+  quran_option_2: "[Theme / Sign] 76:2 — humanity tested through stages (sign verse)."
+  hadith:
+  sources: [S006]
+  
+  
+
+- id: 21
+  timescale: "~3.3 million years ago"
+  cosmic_placement: "Dec 31 21:54:18"
+  description: "Well-established (process): Stone tools emerge. Earliest knapped stone technologies appear; cutting and scraping tools expand dietary and survival strategies. [Sources: Smithsonian; paleoanthropology consensus]"
+  quran_option_1: "[Theme / Sign] 96:1–5 — humanity taught knowledge and the means of learning."
+  quran_option_2: "[Theme / Sign] 96:1–5 — humanity taught knowledge and the means of learning."
+  hadith:
+  source_1: [S007]
+  
+  
+
+- id: 22
+  timescale: "~2.5–2.0 million years ago"
+  cosmic_placement: "Dec 31 22:36:12"
+  description: "Well-established (process): Genus Homo emerges. Larger brains, extended childhood, and broader ecological flexibility develop alongside more complex tool traditions. [Sources: Nature Reviews; human evolution consensus]"
+  quran_option_1: "[Theme / Sign] 55:3–4 — humanity created and endowed with understanding and expression."
+  quran_option_2: "[Theme / Sign] 55:3–4 — humanity created and endowed with understanding and expression."
+  hadith:
+  sources: [S006]
+  
+  
+
+- id: 23
+  timescale: "~1.0–0.5 million years ago"
+  cosmic_placement: "Dec 31 23:31:26"
+  description: "Well-established (process): Controlled use of fire spreads. Cooking, warmth, and protection reshape diet, migration, and social structure over long periods. [Sources: Science; archaeological reviews]"
+  quran_option_1: "[Theme / Sign] 36:80 — fire produced from creation as a human benefit."
+  quran_option_2: "[Theme / Sign] 36:80 — fire produced from creation as a human benefit."
+  hadith:
+  sources: [S006]
+  
+  
+
+- id: 24
+  timescale: "~300,000 years ago"
+  cosmic_placement: "Dec 31 23:48:34"
+  description: "Well-established (event): Biological Homo sapiens. Anatomically modern humans arise; neurological capacity supports language, planning, and cumulative culture. [Sources: Nature; genetic consensus]"
+  quran_option_1: "[Theme / Sign] 95:4 — humanity created in the best form."
+  quran_option_2: "[Theme / Sign] 95:4 — humanity created in the best form."
+  hadith:
+  sources: [S006]
+  
+  
+
+- id: 25
+  timescale: "Date unknown (Islamic sources silent)"
+  cosmic_placement: "Dec 31 23:12:22"
+  description: "Date unknown (Islamic sources silent, event): Ādam ﷺ (moral humanity begins). Allah creates the first morally responsible human, teaches him knowledge, honors him, and assigns accountability; descent to earth begins human moral history. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 2:30–39 — creation of Ādam, teaching of the names, command, lapse, repentance, and guidance."
+  quran_option_2: "[Narrative] 2:30–39 — creation of Ādam, teaching of the names, command, lapse, repentance, and guidance."
+  hadith: "Summary: Humanity originates from a single soul; moral accountability begins with divine guidance. Ref: Ṣaḥīḥ Muslim 2652"
+  sources:
+  
+  
+
+- id: 26
+  timescale: "~100,000–40,000 years ago"
+  cosmic_placement: "Dec 31 23:57:20"
+  description: "Archaeologically inferred (process): Symbolic thought & art. Deliberate burials, ornamentation, cave art, and ritual behavior appear, indicating abstract meaning-making. [Sources: archaeology consensus; cave art studies]"
+  quran_option_1: "[Theme / Sign] 2:31 — teaching of the names as a sign of human symbolic capacity."
+  quran_option_2: "[Theme / Sign] 2:31 — teaching of the names as a sign of human symbolic capacity."
+  hadith:
+  sources: [S006]
+  
+  
+
+- id: 27
+  timescale: "~70,000–15,000 years ago"
+  cosmic_placement: "Dec 31 23:58:28"
+  description: "Well-established (process): Global migration. Homo sapiens disperses beyond Africa; continents gradually populated over millennia. [Sources: genetic studies; archaeology consensus]"
+  quran_option_1: "[Theme / Sign] 29:20 — travel through the earth and observe creation."
+  quran_option_2: "[Theme / Sign] 29:20 — travel through the earth and observe creation."
+  hadith:
+  sources: [S006]
+  
+  
+
+- id: 28
+  timescale: "~50,000–20,000 years ago"
+  cosmic_placement: "Dec 31 23:58:40"
+  description: "Archaeologically inferred (process): Clothing & shelters. Tailored clothing, constructed dwellings, and cold-environment adaptations become widespread. [Sources: archaeological textile evidence; habitation studies]"
+  quran_option_1: "[Theme / Sign] 7:26 — clothing as protection and dignity for the children of Ādam."
+  quran_option_2: "[Theme / Sign] 7:26 — clothing as protection and dignity for the children of Ādam."
+  hadith:
+  sources: [S006]
+  
+  
+
+- id: 29
+  timescale: "Date unknown (Islamic sources silent)"
+  cosmic_placement: "Dec 31 23:55:00"
+  description: "Date unknown (Islamic sources silent, event): Shīth (Seth) ﷺ. Succession after Ādam ﷺ; continuation of guidance among early humanity. [Sources: Qur’anic principle of unnamed prophets]"
+  quran_option_1: "[Narrative] 40:78 — some messengers are mentioned, others are not."
+  quran_option_2: "[Narrative] 40:78 — some messengers are mentioned, others are not."
+  hadith:
+  sources:
+  
+  
+
+- id: 30
+  timescale: "Date unknown (Islamic sources silent)"
+  cosmic_placement: "Dec 31 23:55:01"
+  description: "Date unknown (Islamic sources silent, event): Idrīs ﷺ. Described as truthful and raised in rank; early prophetic guidance. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 19:56–57 — Idrīs named as a prophet raised to a high station."
+  quran_option_2: "[Narrative] 19:56–57 — Idrīs named as a prophet raised to a high station."
+  hadith:
+  sources:
+  
+  
+
+- id: 31
+  timescale: "~10,000 BCE (≈12,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:32"
+  description: "Well-established (process): Agriculture begins (Neolithic transition). Domestication of plants and animals leads to food surplus, sedentary life, population growth, and new moral responsibilities in managing provision. [Sources: archaeology consensus; Neolithic studies]"
+  quran_option_1: "[Moral Principle] 6:141–142 — agricultural and animal provision permitted with gratitude; excess, waste, and arbitrary restriction condemned."
+  quran_option_2: "[Moral Principle] 6:141–142 — agricultural and animal provision permitted with gratitude; excess, waste, and arbitrary restriction condemned."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 32
+  timescale: "~8,000–4,000 BCE (≈10,000–6,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:41"
+  description: "Historically approximate (process): Neolithic cities rise. Early urban centers form; specialization, trade, hierarchy, and inequality develop; some cities later collapse. [Sources: archaeology; early urbanism studies]"
+  quran_option_1: "[Theme / Sign] 30:9 — reflect on the fate of earlier peoples and cities."
+  quran_option_2: "[Theme / Sign] 30:9 — reflect on the fate of earlier peoples and cities."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 33
+  timescale: "~4th millennium BCE (≈6,000–5,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:47"
+  description: "Well-established (process): Wheel & metallurgy spread. Transport efficiency improves; copper and bronze tools reshape economies, warfare, and trade. [Sources: archaeology; metallurgy studies]"
+  quran_option_1: "[Theme / Sign] 57:25 — iron and material strength provided for human benefit."
+  quran_option_2: "[Theme / Sign] 57:25 — iron and material strength provided for human benefit."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 34
+  timescale: "~3,200 BCE (≈5,200 years ago)"
+  cosmic_placement: "Dec 31 23:59:48"
+  description: "Well-established (event): Writing emerges (Mesopotamia / Iraq). Durable record-keeping enables administration, law, taxation, and complex economies. [Sources: Sumerian studies; Britannica]"
+  quran_option_1: "[Theme / Sign] 96:4 — teaching by the pen as a sign of knowledge transmission."
+  quran_option_2: "[Theme / Sign] 96:4 — teaching by the pen as a sign of knowledge transmission."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 35
+  timescale: "~3rd millennium BCE (≈5,000–4,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:49"
+  description: "Historically approximate (process): Pharaonic Egypt forms. Nile-based civilization develops across many dynasties; centralized power and monumental architecture emerge. [Sources: Egyptology consensus]"
+  quran_option_1: "[Theme / Sign] 28:4 — Pharaoh as a recurring pattern of centralized power."
+  quran_option_2: "[Theme / Sign] 28:4 — Pharaoh as a recurring pattern of centralized power."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 36
+  timescale: "~2686–2181 BCE (≈4,700–4,100 years ago)"
+  cosmic_placement: "Dec 31 23:59:50"
+  description: "Historically approximate (process): Old Kingdom (Egypt). Strong central authority; pyramid-building era. [Sources: Egyptology consensus]"
+  quran_option_1: "[Theme / Sign] 89:10 — Pharaoh of the stakes as a symbol of might."
+  quran_option_2: "[Theme / Sign] 89:10 — Pharaoh of the stakes as a symbol of might."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 37
+  timescale: "~2181–2055 BCE (≈4,100–4,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:50"
+  description: "Historically approximate (event): First Intermediate Period (Egypt). Political fragmentation replaces centralized rule. [Sources: Egyptology consensus]"
+  quran_option_1: "[Theme / Sign] 34:19 — civilizations broken into fragments after ingratitude."
+  quran_option_2: "[Theme / Sign] 34:19 — civilizations broken into fragments after ingratitude."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 38
+  timescale: "~2055–1650 BCE (≈4,000–3,700 years ago)"
+  cosmic_placement: "Dec 31 23:59:51"
+  description: "Historically approximate (process): Middle Kingdom (Egypt). Reunification and administrative expansion restore state power. [Sources: Egyptology consensus]"
+  quran_option_1: "[Theme / Sign] 3:140 — days of power alternate among peoples."
+  quran_option_2: "[Theme / Sign] 3:140 — days of power alternate among peoples."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 39
+  timescale: "~2200 BCE (≈4,200 years ago)"
+  cosmic_placement: "Dec 31 23:59:50"
+  description: "Well-established (event): Akkadian collapse (4.2k event). Climate stress and social breakdown weaken imperial systems in Mesopotamia. [Sources: paleoclimate studies; archaeology]"
+  quran_option_1: "[Theme / Sign] 11:102 — seizure of unjust towns."
+  quran_option_2: "[Theme / Sign] 11:102 — severe consequences for unjust towns."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 40
+  timescale: "Date unknown (Islamic sources silent)"
+  cosmic_placement: "Dec 31 23:59:54"
+  description: "Date unknown (Islamic sources silent, event): Nūḥ ﷺ. Calls his people to worship Allah alone; persistent rejection leads to the Flood. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 7:59–64 — Nūḥ’s call, rejection, and deliverance of the believers."
+  quran_option_2: "[Narrative] 7:59–64 — Nūḥ’s call, rejection, and deliverance of the believers."
+  hadith: "Summary: Nūḥ is among the resolute messengers; prolonged perseverance in daʿwah. Ref: Ṣaḥīḥ al-Bukhārī 3340"
+  sources:
+  
+  
+
+- id: 41
+  timescale: "Date unknown (Islamic sources silent; traditionally ~3rd–2nd millennium BCE ≈5,000–4,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.02"
+  description: "Date unknown (Islamic sources silent, event): Hūd ﷺ (ʿĀd, southern Arabia). Calls his people to worship Allah alone and abandon arrogance; persistent rejection leads to destruction. [Sources: Qur’an primary narrative; Arabian archaeology summaries]"
+  quran_option_1: "[Narrative] 7:65–72 — Hūd’s call to ʿĀd and their fate."
+  quran_option_2: "[Narrative] 7:65–72 — Hūd’s call to ʿĀd and their fate."
+  hadith:
+  sources:
+  
+  
+
+- id: 42
+  timescale: "Date unknown (Islamic sources silent; traditionally ~3rd–2nd millennium BCE ≈5,000–4,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.05"
+  description: "Date unknown (Islamic sources silent, event): Ṣāliḥ ﷺ (Thamūd, north-western Arabia). Warns against injustice; the she-camel is given as a sign; rejection results in punishment. [Sources: Qur’an primary narrative; regional archaeology]"
+  quran_option_1: "[Narrative] 7:73–79 — Ṣāliḥ, the she-camel, and Thamūd’s destruction."
+  quran_option_2: "[Narrative] 7:73–79 — Ṣāliḥ, the she-camel, and Thamūd’s destruction."
+  hadith:
+  sources:
+  
+  
+
+- id: 43
+  timescale: "Date unknown (Islamic sources silent; traditionally ~2nd millennium BCE ≈4,000–3,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.08"
+  description: "Date unknown (Islamic sources silent, event): Lūṭ ﷺ (Levant / Dead Sea region). Warns his people against grave immorality and transgression; they persist and are destroyed. [Sources: Qur’an primary narrative; Levantine history summaries]"
+  quran_option_1: "[Narrative] 7:80–84 — Lūṭ’s warning and the fate of his people."
+  quran_option_2: "[Narrative] 7:80–84 — Lūṭ’s warning and the fate of his people."
+  hadith:
+  sources:
+  
+  
+
+- id: 44
+  timescale: "Date unknown (Islamic sources silent; traditionally ~2nd millennium BCE ≈4,000–3,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.11"
+  description: "Date unknown (Islamic sources silent, event): Shuʿayb ﷺ (Madyan, northwest Arabia). Calls for honest trade, fair measures, and exclusive worship; rejection leads to destruction. [Sources: Qur’an primary narrative; trade-route histories]"
+  quran_option_1: "[Narrative] 7:85–93 — Shuʿayb’s message and the fate of Madyan."
+  quran_option_2: "[Narrative] 7:85–93 — Shuʿayb’s message and the fate of Madyan."
+  hadith:
+  sources:
+  
+  
+
+- id: 45
+  timescale: "~2nd millennium BCE (≈4,000–3,500 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.14"
+  description: "Historically approximate (event): Ibrāhīm ﷺ (Mesopotamia → Levant). Rejects idolatry, debates his people, survives the fire, and migrates by divine command. [Sources: Qur’an primary narrative; Near Eastern history summaries]"
+  quran_option_1: "[Narrative] 21:51–71 — Ibrāhīm’s rejection of idols and deliverance."
+  quran_option_2: "[Narrative] 21:51–71 — Ibrāhīm’s rejection of idols and deliverance."
+  hadith: "Summary: Ibrāhīm is described as a single nation devoted to Allah. Ref: Ṣaḥīḥ al-Bukhārī 3350"
+  sources:
+  
+  
+
+- id: 46
+  timescale: "~2nd millennium BCE (≈4,000–3,500 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.17"
+  description: "Historically approximate (event): Ismāʿīl ﷺ (Arabia / Makkah). Settles in the Hijaz; assists Ibrāhīm ﷺ in raising the Kaʿbah; lineage continues in Arabia. [Sources: Qur’an primary narrative; Hijaz history]"
+  quran_option_1: "[Narrative] 2:125–129 — raising the foundations of the House."
+  quran_option_2: "[Narrative] 2:125–129 — raising the foundations of the House."
+  hadith: "Summary: Ibrāhīm left Ismāʿīl and his mother in Makkah by Allah’s command. Ref: Ṣaḥīḥ al-Bukhārī 3364"
+  sources:
+  
+  
+
+- id: 47
+  timescale: "~2nd millennium BCE (≈4,000–3,500 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.17"
+  description: "Historically approximate (event): Isḥāq ﷺ (Levant). Son of Ibrāhīm ﷺ; continuation of the prophetic lineage in the Levant. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 37:112 — glad tidings of Isḥāq, a prophet among the righteous."
+  quran_option_2: "[Narrative] 37:112 — glad tidings of Isḥāq, a prophet among the righteous."
+  hadith:
+  sources:
+  
+  
+
+- id: 48
+  timescale: "~2nd millennium BCE (≈3,800–3,200 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.18"
+  description: "Historically approximate (event): Yaʿqūb ﷺ (Israel). Family-based prophetic lineage expands; twelve sons form the basis of later tribes. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 12:6 — completion of favor upon Yaʿqūb and the family of Ibrāhīm."
+  quran_option_2: "[Narrative] 12:6 — completion of favor upon Yaʿqūb and the family of Ibrāhīm."
+  hadith:
+  sources:
+  
+  
+
+- id: 49
+  timescale: "~late 3rd–early 2nd millennium BCE (≈4,500–4,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.21"
+  description: "Historically approximate (process): Sumerian decline. Early Mesopotamian city-states lose dominance due to internal strain and external pressures. [Sources: Mesopotamian archaeology; Britannica]"
+  quran_option_1: "[Theme / Sign] 22:45 — towns destroyed while wrongdoing prevailed."
+  quran_option_2: "[Theme / Sign] 22:45 — towns destroyed while wrongdoing prevailed."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 50
+  timescale: "~2nd millennium BCE (≈3,500 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.24"
+  description: "Historically approximate (event): Yūsuf ﷺ (Levant → Egypt). Betrayal, enslavement, imprisonment, and rise to authority; famine management brings his family to Egypt. [Sources: Qur’an primary narrative; Egyptian history context]"
+  quran_option_1: "[Narrative] 12:54–56 — Yūsuf placed in authority in Egypt."
+  quran_option_2: "[Narrative] 12:54–56 — Yūsuf placed in authority in Egypt."
+  hadith: "Summary: Yūsuf forgives his brothers and reunites the family. Ref: Ṣaḥīḥ al-Bukhārī 3387"
+  sources:
+  
+  
+
+- id: 51
+  timescale: "~1650–1550 BCE (≈3,700–3,600 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.28"
+  description: "Historically approximate (process): Second Intermediate Period (Egypt). Political fragmentation and foreign rule weaken central authority. [Sources: Egyptology consensus]"
+  quran_option_1: "[Theme / Sign] 3:140 — alternation of power among peoples."
+  quran_option_2: "[Theme / Sign] 3:140 — alternation of power among peoples."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 52
+  timescale: "~1900–1300 BCE (≈3,900–3,300 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.31"
+  description: "Historically approximate (event): Indus Valley Civilization disappears. Major urban centers abandoned; causes likely include environmental and social stress. [Sources: South Asian archaeology; climate studies]"
+  quran_option_1: "[Theme / Sign] 11:117 — destruction follows wrongdoing, not mere prosperity."
+  quran_option_2: "[Theme / Sign] 11:117 — destruction follows wrongdoing, not mere prosperity."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 53
+  timescale: "~2nd millennium BCE (≈4,000–3,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.35"
+  description: "Historically approximate (process): Early law codes. Formalized legal systems emerge to regulate complex societies. [Sources: Mesopotamian legal history; Britannica]"
+  quran_option_1: "[Theme / Sign] 16:90 — Allah commands justice and balance."
+  quran_option_2: "[Theme / Sign] 16:90 — Allah commands justice and balance."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 54
+  timescale: "~13th century BCE (≈3,300 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.39"
+  description: "Historically approximate (event): Mūsā ﷺ and Hārūn ﷺ (Egypt → Sinai → Levant). Confrontation with Pharaoh, Exodus of the Israelites, revelation of divine law. [Sources: Qur’an primary narrative; Near Eastern history summaries]"
+  quran_option_1: "[Narrative] 20:9–48 — mission to Pharaoh and liberation."
+  quran_option_2: "[Narrative] 20:9–48 — mission to Pharaoh and liberation."
+  hadith: "Summary: Mūsā spoke directly to Allah and led the Exodus. Ref: Ṣaḥīḥ al-Bukhārī 3405"
+  sources:
+  
+  
+
+- id: 55
+  timescale: "~1550–1070 BCE (≈3,600–3,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.42"
+  description: "Historically approximate (process): New Kingdom (Egypt). Imperial expansion, monumental building, and peak state power. [Sources: Egyptology consensus]"
+  quran_option_1: "[Theme / Sign] 28:4 — Pharaoh as a recurring pattern of tyranny."
+  quran_option_2: "[Theme / Sign] 28:4 — Pharaoh as a recurring pattern of tyranny."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 56
+  timescale: "~1200 BCE (≈3,200 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.45"
+  description: "Well-established (event): Bronze Age Collapse. Interconnected Eastern Mediterranean civilizations destabilize; trade networks break down. [Sources: archaeology; Late Bronze Age studies]"
+  quran_option_1: "[Theme / Sign] 11:102 — severe consequences for unjust societies."
+  quran_option_2: "[Theme / Sign] 11:102 — severe consequences for unjust societies."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 57
+  timescale: "~1200 BCE (≈3,200 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.45"
+  description: "Well-established (event): Hittite Empire collapses. Anatolian imperial system disappears abruptly. [Sources: Anatolian archaeology; Britannica]"
+  quran_option_1: "[Theme / Sign] 30:9 — earlier peoples were greater in power yet perished."
+  quran_option_2: "[Theme / Sign] 30:9 — earlier peoples were greater in power yet perished."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 58
+  timescale: "~1200–1100 BCE (≈3,200–3,100 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.45"
+  description: "Well-established (event): Mycenaean collapse. Palace societies fall; writing and administration regress in Greece. [Sources: Aegean archaeology]"
+  quran_option_1: "[Theme / Sign] 30:9 — reflection on the fate of earlier peoples."
+  quran_option_2: "[Theme / Sign] 30:9 — reflection on the fate of earlier peoples."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 59
+  timescale: "~10th century BCE (≈3,000 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.48"
+  description: "Historically approximate (event): Dāwūd ﷺ (Levant / Palestine). Kingship established; divine law and worship emphasized; Zabūr revealed. [Sources: Qur’an primary narrative; Levantine history]"
+  quran_option_1: "[Narrative] 17:55 — Zabūr given to Dāwūd."
+  quran_option_2: "[Narrative] 17:55 — Zabūr given to Dāwūd."
+  hadith: "Summary: Dāwūd was granted wisdom and just judgment. Ref: Ṣaḥīḥ al-Bukhārī 3427"
+  sources:
+  
+  
+
+- id: 60
+  timescale: "~10th century BCE (≈3,000 years ago; traditional)"
+  cosmic_placement: "Dec 31 23:59:54.50"
+  description: "Historically approximate (event): Sulaymān ﷺ (Levant / Palestine). Kingdom expands; governance with wisdom; extraordinary authority granted. [Sources: Qur’an primary narrative; Near Eastern history]"
+  quran_option_1: "[Narrative] 38:30–40 — Sulaymān’s kingdom and supplication."
+  quran_option_2: "[Narrative] 38:30–40 — Sulaymān’s kingdom and supplication."
+  hadith: "Summary: Sulaymān was given a unique kingdom not granted to others. Ref: Ṣaḥīḥ al-Bukhārī 3429"
+  sources:
+  
+  
+
+- id: 61
+  timescale: "~2nd millennium BCE (≈4,000–3,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.53"
+  description: "Historically approximate (process): Alphabetic writing spreads. More accessible scripts enable wider literacy and record-keeping beyond elite scribal systems. [Sources: Britannica; Oxford Reference]"
+  quran_option_1: "[Theme / Sign] 96:4 — teaching by the pen as a sign of knowledge transmission."
+  quran_option_2: "[Theme / Sign] 96:4 — teaching by the pen as a sign of knowledge transmission."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 62
+  timescale: "Date unknown (Islamic sources silent; traditionally ~1st millennium BCE ≈3,000–2,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.56"
+  description: "Date unknown (Islamic sources silent, event): Dhul-Kifl ﷺ. Counted among the righteous; prophetic guidance continues. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 21:85–86 — Dhul-Kifl mentioned among the steadfast and righteous."
+  quran_option_2: "[Narrative] 21:85–86 — Dhul-Kifl among the steadfast and righteous."
+  hadith:
+  sources:
+  
+  
+
+- id: 63
+  timescale: "Date unknown (Islamic sources silent; traditionally ~1st millennium BCE ≈3,000–2,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.58"
+  description: "Date unknown (Islamic sources silent, event): Ilyās ﷺ (Levant). Calls his people away from false worship and toward Allah alone. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 37:123–132 — Ilyās and his people."
+  quran_option_2: "[Narrative] 37:123–132 — Ilyās and his people."
+  hadith:
+  sources:
+  
+  
+
+- id: 64
+  timescale: "Date unknown (Islamic sources silent; traditionally ~1st millennium BCE ≈3,000–2,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.59"
+  description: "Date unknown (Islamic sources silent, event): Al-Yasaʿ ﷺ (Levant). Counted among the chosen; prophetic guidance continues. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 38:48 — Al-Yasaʿ mentioned among the excellent."
+  quran_option_2: "[Narrative] 38:48 — Al-Yasaʿ among the excellent."
+  hadith:
+  sources:
+  
+  
+
+- id: 65
+  timescale: "Date unknown (Islamic sources silent; traditionally ~8th century BCE ≈2,800 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.60"
+  description: "Date unknown (Islamic sources silent, event): Yūnus ﷺ (Nineveh region). Calls his people; unique case where a community later believes and is spared. [Sources: Qur’an primary narrative; Near Eastern history summaries]"
+  quran_option_1: "[Narrative] 10:98 — the people of Yūnus believed and were spared punishment."
+  quran_option_2: "[Narrative] 10:98 — people of Yūnus believed and were spared punishment."
+  hadith:
+  sources:
+  
+  
+
+- id: 66
+  timescale: "~612 BCE (≈2,600 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.63"
+  description: "Well-established (event): Assyrian Empire falls. The imperial center collapses, reshaping the Near East’s political order. [Sources: Britannica; Near Eastern history surveys]"
+  quran_option_1: "[Theme / Sign] 30:9 — earlier peoples were strong, yet perished; reflect on their end."
+  quran_option_2: "[Theme / Sign] 30:9 — earlier peoples were strong, yet perished."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 67
+  timescale: "~539 BCE (≈2,560 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.66"
+  description: "Well-established (event): Babylon is conquered. Power shifts again in Mesopotamia, illustrating recurring cycles of empire and decline. [Sources: Britannica; Cambridge histories summaries]"
+  quran_option_1: "[Theme / Sign] 3:140 — days of power are alternated among peoples."
+  quran_option_2: "[Theme / Sign] 3:140 — days of power are alternated among peoples."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 68
+  timescale: "~7th century BCE (≈2,700 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.69"
+  description: "Well-established (process): Coinage spreads. Standardized money expands markets, taxation, and state capacity, transforming trade across regions. [Sources: Britannica; economic history surveys]"
+  quran_option_1: "[Moral Principle] 83:1–3 — warning against fraud in weights and measures."
+  quran_option_2: "[Moral Principle] 83:1–3 — warning against fraud in weights and measures."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 69
+  timescale: "~5th–4th century BCE (≈2,500–2,400 years ago)"
+  cosmic_placement: "Dec 31 23:59:54.72"
+  description: "Historically approximate (process): Classical philosophy develops. Systematic inquiry into ethics, politics, logic, and nature grows, shaping later intellectual traditions. [Sources: Stanford Encyclopedia of Philosophy; Britannica]"
+  quran_option_1: "[Theme / Sign] 39:9 — the virtue of knowledge and understanding over ignorance."
+  quran_option_2: "[Theme / Sign] 39:9 — excellence of knowledge over ignorance."
+  hadith: "Summary: Whoever follows a path seeking knowledge, Allah makes a path to Paradise easy for them. Ref: Ṣaḥīḥ Muslim 2699"
+  sources:
+  
+  
+
+- id: 70
+  timescale: "~476 CE (≈1,550 years ago)"
+  cosmic_placement: "Dec 31 23:59:55.20"
+  description: "Historically approximate (event): Western Roman Empire collapses. Central authority breaks down; political fragmentation follows in Western Europe. [Sources: Britannica; Roman history surveys]"
+  quran_option_1: "[Theme / Sign] 30:9 — observe how earlier powers ended despite their strength."
+  quran_option_2: "[Theme / Sign] 30:9 — observe how earlier powers ended despite strength."
+  hadith:
+  sources: [S003]
+  
+  
+
+- id: 71
+  timescale: "~6th–10th centuries CE (≈1,500–1,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:55.80"
+  description: "Historically approximate (process): Loss and narrowing of classical knowledge in parts of Europe. Text transmission declines in some regions; learning continues elsewhere through preservation, translation, and scholarly networks. [Sources: Cambridge histories summaries; Britannica]"
+  quran_option_1: "[Theme / Sign] 96:1–5 — learning and the pen as foundations of human knowledge."
+  quran_option_2: "[Theme / Sign] 96:1–5 — learning and the pen as foundations of human knowledge."
+  hadith:
+  sources:
+  
+  
+
+- id: 72
+  timescale: "Date unknown (Islamic sources silent; placed in 1st century BCE–CE ≈2,100–1,900 years ago)"
+  cosmic_placement: "Dec 31 23:59:56.10"
+  description: "Date unknown (Islamic sources silent, event): Zakariyyā ﷺ (Levant / Palestine). Supplicates for righteous offspring; receives glad tidings of Yaḥyā. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 19:2–10 — Zakariyyā’s supplication and glad tidings."
+  quran_option_2: "[Narrative] 19:2–10 — Zakariyyā’s supplication and glad tidings."
+  hadith:
+  sources:
+  
+  
+
+- id: 73
+  timescale: "Date unknown (Islamic sources silent; placed in 1st century CE ≈2,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:56.11"
+  description: "Date unknown (Islamic sources silent, event): Yaḥyā ﷺ (Levant / Palestine). Granted wisdom and purity; supports truth and righteousness. [Sources: Qur’an primary narrative]"
+  quran_option_1: "[Narrative] 19:12–15 — Yaḥyā’s character and righteousness."
+  quran_option_2: "[Narrative] 19:12–15 — Yaḥyā’s character and righteousness."
+  hadith:
+  sources:
+  
+  
+
+- id: 74
+  timescale: "Date unknown (Islamic sources silent; placed in 1st century CE ≈2,000 years ago)"
+  cosmic_placement: "Dec 31 23:59:56.12"
+  description: "Date unknown (Islamic sources silent, event): ʿĪsā ﷺ (Levant / Palestine). Miraculous birth, call to worship Allah, and prophetic mission to Banī Isrā’īl. [Sources: Qur’an primary narrative; historical context surveys]"
+  quran_option_1: "[Narrative] 3:45–51 — glad tidings of ʿĪsā and his mission."
+  quran_option_2: "[Narrative] 3:45–51 — glad tidings of ʿĪsā and his mission."
+  hadith:
+  sources:
+  
+  
+
+- id: 75
+  timescale: "~610–632 CE (≈1,415–1,393 years ago)"
+  cosmic_placement: "Dec 31 23:59:56.70"
+  description: "Well-established (event): Muḥammad ﷺ (Arabia / Makkah → Madinah). Revelation of the Qur’an begins; the prophetic mission establishes worship of Allah alone and a moral-legal community. [Sources: Qur’an primary narrative; early Islamic history surveys]"
+  quran_option_1: "[Narrative] 33:40 — Muḥammad as the Messenger of Allah and seal of the prophets."
+  quran_option_2: "[Narrative] 33:40 — Messenger of Allah and seal of the prophets."
+  hadith:
+  sources:
+  
+  
+
+- id: 76
+  timescale: "1258 CE (≈770 years ago)"
+  cosmic_placement: "Dec 31 23:59:58.00"
+  description: "Well-established (event): Baghdad is destroyed (1258). A major center of learning and governance is devastated; intellectual and political networks are fractured. [Sources: Britannica; Islamic history surveys]"
+  quran_option_1: "[Theme / Sign] 22:45 — towns overthrown while wrongdoing prevailed."
+  quran_option_2: "[Theme / Sign] 22:45 — towns overthrown while wrongdoing prevailed."
+  hadith:
+  sources:
+  
+  
+
+- id: 77
+  timescale: "1492 CE (≈533 years ago)"
+  cosmic_placement: "Dec 31 23:59:58.40"
+  description: "Well-established (event): Al-Andalus erased from Muslim rule (1492). A long civilizational presence ends; communities are displaced or forced into erasure. [Sources: Britannica; Iberian history surveys]"
+  quran_option_1: "[Theme / Sign] 30:9 — reflect on the fate of earlier peoples and powers."
+  quran_option_2: "[Theme / Sign] 30:9 — reflect on the fate of earlier peoples and powers."
+  hadith:
+  sources:
+  
+  
+
+- id: 78
+  timescale: "~15th century CE (≈600–500 years ago)"
+  cosmic_placement: "Dec 31 23:59:58.45"
+  description: "Well-established (process): Printing press spreads. Mass reproduction of texts accelerates literacy, education, and the distribution of ideas. [Sources: Britannica; history of print studies]"
+  quran_option_1: "[Theme / Sign] 96:4 — teaching by the pen (and by extension, recorded knowledge) as a sign."
+  quran_option_2: "[Theme / Sign] 96:4 — teaching by the pen as a sign."
+  hadith: "Summary: Seeking knowledge is a path toward divine reward and ease. Ref: Ṣaḥīḥ Muslim 2699"
+  source_1: "S010"
+  source_2: "S011"
+  
+
+- id: 79
+  timescale: "~17th century CE (≈400–300 years ago)"
+  cosmic_placement: "Dec 31 23:59:58.70"
+  description: "Historically approximate (process): Scientific method develops. Systematic experimentation, measurement, and peer critique mature, transforming natural philosophy into modern science. [Sources: Stanford Encyclopedia of Philosophy; Royal Society histories]"
+  quran_option_1: "[Theme / Sign] 39:9 — the excellence of knowledge over ignorance."
+  quran_option_2: "[Theme / Sign] 39:9 — excellence of knowledge over ignorance."
+  hadith:
+  sources:
+  
+  
+
+- id: 80
+  timescale: "~late 18th–19th centuries CE (≈250–125 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.10"
+  description: "Well-established (process): Industrial Revolution. Mechanization, fossil fuels, and factory systems rapidly expand production, urbanization, and environmental impact. [Sources: Britannica; economic history surveys]"
+  quran_option_1: "[Moral Principle] 30:41 — corruption appears on land and sea through what people have earned."
+  quran_option_2: "[Moral Principle] 30:41 — corruption appears on land and sea through what people have earned."
+  hadith:
+  sources:
+  
+  
+
+- id: 81
+  timescale: "~19th century CE (≈200–120 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.20"
+  description: "Well-established (process): Electricity harnessed. Generation and distribution of electrical power transform industry, communication, and daily life. [Sources: Britannica; history of electricity surveys]"
+  quran_option_1: "[Theme / Sign] 24:35 — light as a sign and metaphor of guidance (thematic, not technical)."
+  quran_option_2: "[Theme / Sign] 24:35 — light as a sign and metaphor of guidance (thematic, not technical)."
+  hadith:
+  sources:
+  
+  
+
+- id: 82
+  timescale: "~19th–20th centuries CE (≈150–50 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.30"
+  description: "Well-established (process): Modern medicine develops. Germ theory, anesthesia, antibiotics, vaccines, sanitation, and surgery drastically reduce mortality. [Sources: CDC history; medical history reviews]"
+  quran_option_1: "[Moral Principle] 26:80 — Allah is the ultimate healer."
+  quran_option_2: "[Moral Principle] 26:80 — Allah is the ultimate healer."
+  hadith: "Summary: Allah created a cure for every disease; believers are encouraged to seek treatment. Ref: Ṣaḥīḥ al-Bukhārī 5678; Ṣaḥīḥ Muslim 2204"
+  sources: [S014, S015]
+  
+
+- id: 83
+  timescale: "~16th–19th centuries CE (≈500–150 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.35"
+  description: "Well-established (process): Indigenous civilizations of the Americas devastated. Disease, conquest, and colonial systems cause demographic collapse and cultural erasure. [Sources: Cambridge histories; CDC historical demography]"
+  quran_option_1: "[Moral Principle] 4:135 — command to uphold justice, even against oneself."
+  quran_option_2: "[Moral Principle] 4:135 — uphold justice, even against oneself."
+  hadith:
+  sources:
+
+  
+
+- id: 84
+  timescale: "~1918–1922 CE (≈105 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.55"
+  description: "Well-established (event): Ottoman Empire collapses. A multi-century polity dissolves after World War I, reshaping the Middle East. [Sources: Britannica; Ottoman history surveys]"
+  quran_option_1: "[Theme / Sign] 3:140 — days of power alternate among peoples."
+  quran_option_2: "[Theme / Sign] 3:140 — days of power alternate among peoples."
+  hadith:
+  sources:
+  
+  
+
+- id: 85
+  timescale: "~mid-20th century CE (≈80–60 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.65"
+  description: "Well-established (process): Colonial empires dissolve. Political independence spreads across Asia, Africa, and the Middle East; new nation-states form. [Sources: UN history; post-colonial studies]"
+  quran_option_1: "[Theme / Sign] 14:25 — nations rise and fall by divine leave."
+  quran_option_2: "[Theme / Sign] 14:25 — nations rise and fall by divine leave."
+  hadith:
+  sources: [S009]
+  
+  
+
+- id: 86
+  timescale: "~mid-20th century CE (≈75–50 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.70"
+  description: "Well-established (process): Electronics and computing emerge. Transistors and integrated circuits enable rapid computation and automation. [Sources: IEEE history; computing surveys]"
+  quran_option_1: "[Theme / Sign] 55:33 — human striving within created bounds (general sign of capability)."
+  quran_option_2: "[Theme / Sign] 55:33 — human striving within created bounds (general sign of capability)."
+  hadith:
+  sources: [S016, S017]
+  
+
+- id: 87
+  timescale: "~late 20th century CE (≈40–25 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.78"
+  description: "Well-established (process): Digital age expands. Software, data networks, and automation reshape economies, labor, and communication. [Sources: Britannica; digital history surveys]"
+  quran_option_1: "[Moral Principle] 50:18 — every word is recorded; accountability persists amid new media."
+  quran_option_2: "[Moral Principle] 50:18 — every word is recorded; accountability persists amid new media."
+  hadith:
+  sources:
+  
+  
+
+- id: 88
+  timescale: "~late 20th–early 21st century CE (≈30–10 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.85"
+  description: "Well-established (process): Internet & globalization. Instant communication and global supply chains interlink societies; cultural exchange accelerates alongside inequality. [Sources: Internet Society; World Bank]"
+  quran_option_1: "[Theme / Sign] 49:13 — humanity made diverse to know one another."
+  quran_option_2: "[Theme / Sign] 49:13 — humanity made diverse to know one another."
+  hadith:
+  sources: [S013]
+  
+  
+
+- id: 89
+  timescale: "~last 100 years (≈100–0 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.90"
+  description: "Well-established (process): The last century. World wars, nuclear weapons, spaceflight, civil rights movements, climate change awareness, and unprecedented scientific capacity. [Sources: UN; NASA; 20th-century history surveys]"
+  quran_option_1: "[Moral Principle] 33:72 — the trust borne by humanity and its consequences."
+  quran_option_2: "[Moral Principle] 33:72 — the trust borne by humanity and its consequences."
+  hadith:
+  sources: [S012]
+  
+  
+
+- id: 90
+  timescale: "Present (≈0 years ago)"
+  cosmic_placement: "Dec 31 23:59:59.99"
+  description: "Present moment: Humanity stands at a peak of knowledge and power, alongside existential risks; moral responsibility, restraint, and accountability remain central. [Sources: IPCC; UN reports; contemporary analyses]"
+  quran_option_1: "[Moral Principle] 103:1–3 — time bears witness to loss except for faith, righteous action, truth, and patience."
+  quran_option_2: "[Moral Principle] 103:1–3 — time bears witness to loss except faith, righteous action, truth, and patience."
+  hadith:
+  sources: [S012]
+  
+  

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="stylesheet" href="https://unpkg.com/tufte-css@1.8.0/tufte.min.css">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body class="page-{{page.url | slugify | replace: '-md', '' | replace: '-html', '' }}">
+    <header class="is-stickyx">
+      {% if page.url != '/' %}
+      <p class="home-link">
+        <a href="{{ '/' | relative_url }}">← Home</a>
+      </p>
+      {% endif %}
+    </header>
+    <article>
+      {% if page.multi_section %}
+        {{ content }}
+      {% else %}
+        <section>
+        {{ content }}
+        </section>
+      {% endif %}
+    </article>
+  </body>
+</html>

@@ -1,85 +1,149 @@
+# Sources for Cosmic Timeline
+# Structured for APA 7th edition compliance
+
 - id: S001
-  title: Planck 2018 cosmological parameters
-  author: Planck Collaboration (2018)
-  description: Planck 2018 results. VI. Cosmological parameters.
+  type: journal
+  author: Planck Collaboration
+  year: 2018
+  title: "Planck 2018 results. VI. Cosmological parameters"
+  journal: Astronomy & Astrophysics
+  volume: 641
+  pages: A6
+  doi: 10.1051/0004-6361/201833910
   url: https://arxiv.org/abs/1807.06209
+
 - id: S002
-  title: NASA Big Bang / cosmic timeline
-  author: NASA (Goddard/Science)
-  description: Big Bang / Universe timeline educational resources.
-  url: https://science.nasa.gov/universe/
-- id: S003
-  title: ICS Chronostratigraphic Chart
-  author: International Commission on Stratigraphy (updated Dec 2024)
-  description: International Chronostratigraphic Chart (PDF).
-  url: https://stratigraphy.org/ICSchart/ChronostratChart2024-12.pdf
-- id: S004
-  title: USGS Age of the Earth
-  author: USGS
-  description: "Geologic Time: Age of the Earth (4.54 billion years)."
-  url: https://pubs.usgs.gov/gip/geotime/age.html
-- id: S005
-  title: Science (2010) Chicxulub & K–Pg
-  author: Schulte, P. et al. (2010)
-  description: The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous–Paleogene Boundary. Science 327(5970). DOI:10.1126/science.1177265 (PDF).
-  url: https://www.science.org/doi/pdf/10.1126/science.1177265
-- id: S006
-  title: Smithsonian Human Origins
-  author: Smithsonian NMNH Human Origins Program
-  description: Research & timelines (tools, hominins, etc.).
-  url: https://humanorigins.si.edu/
-- id: S007
-  title: "Smithsonian: Oldowan tools"
-  author: Smithsonian Human Origins
-  description: Oldowan tools ~3 million years ago (Nyayanga).
-  url: https://humanorigins.si.edu/research/whats-hot-human-origins/oldowan-tools-3-million-years-ago
-- id: S008
-  title: NASA JWST early galaxies
+  type: website
   author: NASA
-  description: JWST / early galaxies overview (Curious Universe episode page).
+  year: n.d.
+  title: "Big Bang and the origin of the universe"
+  publisher: NASA Science
+  url: https://science.nasa.gov/universe/
+
+- id: S003
+  type: report
+  author: International Commission on Stratigraphy
+  year: 2024
+  title: International Chronostratigraphic Chart
+  publisher: International Commission on Stratigraphy
+  url: https://stratigraphy.org/ICSchart/ChronostratChart2024-12.pdf
+
+- id: S004
+  type: website
+  author: U.S. Geological Survey
+  year: n.d.
+  title: "Geologic time: Age of the Earth"
+  publisher: USGS
+  url: https://pubs.usgs.gov/gip/geotime/age.html
+
+- id: S005
+  type: journal
+  author: "Schulte, P., Alegret, L., Arenillas, I., Arz, J. A., Barton, P. J., Bown, P. R., Bralower, T. J., Christeson, G. L., Claeys, P., Cockell, C. S., Collins, G. S., Deutsch, A., Goldin, T. J., Goto, K., Grajales-Nishimura, J. M., Grieve, R. A. F., Gulick, S. P. S., Johnson, K. R., Kiessling, W., ... Willumsen, P. S."
+  year: 2010
+  title: The Chicxulub asteroid impact and mass extinction at the Cretaceous-Paleogene boundary
+  journal: Science
+  volume: 327
+  issue: 5970
+  pages: 1214-1218
+  doi: 10.1126/science.1177265
+  url: https://www.science.org/doi/10.1126/science.1177265
+
+- id: S006
+  type: website
+  author: Smithsonian National Museum of Natural History
+  year: n.d.
+  title: What does it mean to be human?
+  publisher: Smithsonian Institution
+  url: https://humanorigins.si.edu/
+
+- id: S007
+  type: website
+  author: Smithsonian National Museum of Natural History
+  year: n.d.
+  title: Oldowan tools are 3 million years old
+  publisher: Smithsonian Institution
+  url: https://humanorigins.si.edu/research/whats-hot-human-origins/oldowan-tools-3-million-years-ago
+
+- id: S008
+  type: website
+  author: NASA
+  year: n.d.
+  title: "Webb series: Finding the first galaxies"
+  publisher: NASA
   url: https://www.nasa.gov/podcasts/curious-universe/webb-series-finding-the-first-galaxies/
+
 - id: S009
-  title: UN Decolonization
+  type: website
   author: United Nations
-  description: Decolonization global issue / background.
+  year: n.d.
+  title: Decolonization
+  publisher: United Nations
   url: https://www.un.org/en/global-issues/decolonization
+
 - id: S010
-  title: Britannica Printing Press
+  type: encyclopedia
   author: Encyclopaedia Britannica
-  description: Printing press overview.
+  year: n.d.
+  title: Printing press
+  publisher: Encyclopaedia Britannica
   url: https://www.britannica.com/technology/printing-press
+
 - id: S011
-  title: Britannica Gutenberg
+  type: encyclopedia
   author: Encyclopaedia Britannica
-  description: Johannes Gutenberg biography.
+  year: n.d.
+  title: Johannes Gutenberg
+  publisher: Encyclopaedia Britannica
   url: https://www.britannica.com/biography/Johannes-Gutenberg
+
 - id: S012
-  title: IPCC AR6 Synthesis Report
-  author: IPCC (2023)
-  description: AR6 Synthesis Report (Longer Report PDF).
+  type: report
+  author: Intergovernmental Panel on Climate Change
+  year: 2023
+  title: "Climate change 2023: Synthesis report"
+  publisher: IPCC
   url: https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf
+
 - id: S013
-  title: Internet Society history
-  author: Internet Society (Leiner et al.)
-  description: A Brief History of the Internet.
+  type: website
+  author: "Leiner, B. M., Cerf, V. G., Clark, D. D., Kahn, R. E., Kleinrock, L., Lynch, D. C., Postel, J., Roberts, L. G., & Wolff, S."
+  year: 2009
+  title: A brief history of the Internet
+  publisher: Internet Society
   url: https://www.internetsociety.org/internet/history-internet/brief-history-internet/
+
 - id: S014
-  title: CDC immunization history
-  author: CDC Museum
-  description: Immunization and Vaccination Campaigns.
+  type: website
+  author: Centers for Disease Control and Prevention
+  year: n.d.
+  title: Immunization and vaccination campaigns
+  publisher: CDC Museum
   url: https://www.cdc.gov/museum/online/story-of-cdc/immunization/index.html
+
 - id: S015
-  title: CDC penicillin paper
-  author: CDC (EID)
-  description: The Discovery of Penicillin—New Insights After More Than 75 Years (PDF).
-  url: https://wwwnc.cdc.gov/eid/article/23/5/pdfs/16-1556.pdf
+  type: journal
+  author: "Gaynes, R."
+  year: 2017
+  title: "The discovery of penicillin: New insights after more than 75 years of clinical use"
+  journal: Emerging Infectious Diseases
+  volume: 23
+  issue: 5
+  pages: 849-853
+  doi: 10.3201/eid2305.161556
+  url: https://wwwnc.cdc.gov/eid/article/23/5/16-1556_article
+
 - id: S016
-  title: Bell Labs transistor history (PDF)
+  type: report
   author: Bell System Memorial
-  description: Transistor history (PDF).
+  year: n.d.
+  title: The transistor
+  publisher: Bell System Memorial
   url: https://memorial.bellsystem.com/pdf/trans-history.pdf
+
 - id: S017
-  title: IEEE/ETHW Bell Labs transistor milestone
+  type: website
   author: IEEE Engineering and Technology History Wiki
-  description: Invention of the First Transistor at Bell Labs (1947).
+  year: n.d.
+  title: "Invention of the first transistor at Bell Telephone Laboratories, Inc., 1947"
+  publisher: IEEE
   url: https://ethw.org/Milestones%3AInvention_of_the_First_Transistor_at_Bell_Telephone_Laboratories%2C_Inc.%2C_1947
