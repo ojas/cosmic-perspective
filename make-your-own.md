@@ -10,7 +10,7 @@ This is a lens, not a doctrine. Fork it and adapt it to explore your own place i
 To deploy your own version:
 
 0. If you don't already have a Github account, get it for free.
-1. Click the Fork button above.
+1. Go to <https://github.com/rhythm-industries/cosmic-perspective> and click the Fork button.
 2. In your forked repository, go to **Settings** → **Pages**
 3. Under "Source", select **main** branch
 4. Press **Save**
